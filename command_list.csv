@@ -1,0 +1,107 @@
+    1  cd
+    2  ls
+    3  cd HW_10
+    4  cd Desktop
+    5  ls
+    6  cd hw_10
+    7  clear
+    8  git config --global user.name Anya.Brazhnyk
+    9  git config -- user.email anna.ratushna@gmail.com
+   10  git cinfig --global user.email anna.ratushna@gmail.com
+   11  git config --global --list
+   12  git.config --global user.email
+   13  git config --global user.email anna.ratushna@gmail.com
+   14  git config --global --list
+   15  clear
+   16  cd 
+   17  cd hw_10
+   18  pwd
+   19  cd /c/users/Anya/HW_10
+   20  cd /c/users/Anya/Desctop/HW_10
+   21  cd c/users/Anya/desktop/HW_10
+   22  cd Desktop/Hw_10
+   23  clear
+   24  git config --global --list
+   25  clear
+   26  git clone 
+   27  clear
+   28  git clone https://github.com/AnyaBrazhyk/HW_10.git
+   29  pwd
+   30  cd c/desktop
+   31  cd /c/desktop
+   32  cd HW_10
+   33  cd Desktop/HW_10/
+   34  clear
+   35  clone https://github.com/AnyaBrazhnyk/HW_10 
+   36  git clone https://github.com/AnyaBrazhnyk/HW_10
+   37  cd HW_10/.git/
+   38  pwd
+   39  cd hw_10
+   40  cd ..
+   41  touch text_ignore.txt
+   42  ls -la
+   43  cd gitignore
+   44  pwd
+   45  touch .gitignore
+   46  git status
+   47  git add .gitignore
+   48  git commit 
+   49  pwd
+   50  cd Desktop/HW_10/HW_10/
+   51  git status
+   52  git clone https://github.com/AnyaBrazhyk/Hw_10.git
+   53  git clone 
+   54  git clone https://github.com/AnyaBrazhnyk/HW_10.git
+   55  touch text_ignore.txt
+   56  cd HW_10/
+   57  touch text_ignore.txt
+   58  git status
+   59  git add text_ignore.txt
+   60  -f
+   61  git status
+   62  git add text_ignore.txt
+   63  git commit -m "New file created"
+   64  git add file .gitignore
+   65  git status
+   66  git add text_ignore.txt
+   67  git status
+   68  git restore .gitignore
+   69  git status
+   70  git add text_ignore.txt
+   71  git status
+   72  git commit -m "New file created"
+   73  git status
+   74  touch main_test.txt
+   75  git add main_test.txt
+   76  git commit -m "New file main_test"
+   77  git branch
+   78  git checkout -b develop
+   79  git branch
+   80  touch develop_test.txt
+   81  git add develop_test.txt
+   82  git commit -m "file develop_test"
+   83  nano develop_test.txt 
+   84  git status
+   85  git add develop_test.txt
+   86  git commit -m "just a small change"
+   87  git status
+   88  git checkout main
+   89  git merge develop_branch
+   90  git branch
+   91  git merge develop
+   92  git branch
+   93  git merge develop_branch
+   94  git fetch --all
+   95  git branch
+   96  git merge develop_branch
+   97  git log
+   98  git branch
+   99  git cd
+  100  cd Desktop/HW_10/HW_10/HW_10/
+  101  git branch
+  102  git merge develop
+  103  git log
+  104  git status
+  105  git commit -m
+  106  git push
+  107  history > command_list.csv
